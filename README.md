@@ -1,7 +1,7 @@
 # K-ban (kanban clone)
 Kanban is a neat tool for productivity. Making my own version can make me better understand the design choices made.
 
-### v1.0 Features Checklist:
+### v1.0 Features/Deliverables Checklist:
 #### Client
 - [x] boards are responsive
 - [x] create boards or kanban that contain tasks
@@ -12,15 +12,17 @@ Kanban is a neat tool for productivity. Making my own version can make me better
   - [ ] which can be checked as complete with a gui update
 - [ ] all tasks, boards, and subtasks are editable
 - [x] all of these also have size constraints that are expandable or displayable somehow
+- [ ] connect server and client parts
+- [ ] deploy
 
 #### Server
-- [ ] CRUD operations for Boards
-  - [x] Create [x] Read [x] Update [x] Delete
+- [x] CRUD operations for Boards
 - [x] CRUD operations for Tasks
-  - [x] Create [x] Read [x] Update [x] Delete
 - [x] CRUD operations for Checklists
-    - [x] Create [x] Read [x] Update [x] Delete
-- [ ] Authentication for Users
+- [ ] authentication for Users
+- [ ] donnect to hosted DB
+- [ ] deploy
+
 
 ---------------------------------------------
 ### Future Improvements/ Features:
