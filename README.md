@@ -10,17 +10,23 @@ Kanban is a neat tool for productivity. Making my own version can make me better
 - [x] task capacity can be limited in each board
 - [ ] tasks can also contain subtasks 
   - [ ] which can be checked as complete with a gui update
-- [ ] all tasks, boards, and subtasks are editable
+- [ ] all users, boards, tasks, and subtasks are editable
+  - [x] boards
+  - [x] tasks
+  - [ ] checklists/ subtasks
+  - [ ] users
 - [x] all of these also have size constraints that are expandable or displayable somehow
 - [ ] connect server and client parts
-- [ ] deploy
+- [x] deploy [link](https://k-ban.netlify.com)
 
 #### Server
+- [x] CRUD for users
 - [x] CRUD operations for Boards
 - [x] CRUD operations for Tasks
 - [x] CRUD operations for Checklists
 - [ ] authentication for Users
-- [ ] donnect to hosted DB
+- [ ] connect to local DB for testing
+- [ ] connect to hosted DB
 - [ ] deploy
 
 
