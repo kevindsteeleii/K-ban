@@ -1,0 +1,6 @@
+[submodule "K-ban_Client"]
+	path = K-ban_Client
+	url = https://github.com/kevindsteeleii/K-ban_Client.git
+[submodule "K-ban_Server"]
+	path = K-ban_Server
+	url = https://github.com/kevindsteeleii/K-ban_Server.git
